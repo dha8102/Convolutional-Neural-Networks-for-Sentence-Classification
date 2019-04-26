@@ -9,7 +9,7 @@ The whole implementation of Yoon Kim's CNN Classifier(EMNLP 2014).
 
 Tensorflow framework used, and you can experiment all variation for 7 dataset in the paper.
 
-###Requirements
+### Requirements
 
 Python(>=3.5) \
 Tensorflow-gpu(>=1.12.0)
