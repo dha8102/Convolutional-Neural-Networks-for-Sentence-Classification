@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="user5@163.152.23.96:1234">
+    <serverData>
+      <paths name="user5@163.152.23.96:1234">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/hdd/user5/CNN_for_Sentence_Classification/CNN_github" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="user5@163.152.23.96:1234 (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
