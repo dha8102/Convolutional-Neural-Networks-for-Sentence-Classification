@@ -19,10 +19,10 @@ Tensorflow-gpu(>=1.12.0)
 Each raw dataset is in each dataset directory.
 
 First, you need word2vec pre-trained vector file.
-(Download in here : <a href = "https://translate.googleusercontent.com/translate_c?depth=1&hl=ko&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit%3Fusp%3Dsharing&xid=17259,15700022,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjmxptCcqmVqDCE9FCEOt3FKsoCfg"> google pre trained vector </a>)
+(Download in here : <a href = "https://translate.googleusercontent.com/translate_c?depth=1&hl=ko&prev=search&rurl=translate.google.com&sl=en&sp=nmt4&u=https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit%3Fusp%3Dsharing&xid=17259,15700022,15700186,15700190,15700253,15700256,15700259&usg=ALkJrhjmxptCcqmVqDCE9FCEOt3FKsoCfg"> google pre trained vector </a>)\
 You should adjust filepath in [datasetname]input.py.
 
-Second, run [datasetname]input.py.
+Second, run [datasetname]input.py.\
 Then [datasetname]_original_data.bin will be made in the directory.
 
 ### Training and Testing
@@ -32,6 +32,7 @@ Then [datasetname]_original_data.bin will be made in the directory.
 Run [datasetname]train.py.
 
 The dataset is divided train, dev, test set and program tests accuracy for each epochs or steps.
+
 Early stopping is adapted, so you should adjust proper condition for stopping in the code.
 
 
