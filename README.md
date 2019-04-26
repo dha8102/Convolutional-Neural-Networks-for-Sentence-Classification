@@ -1,5 +1,5 @@
 # Convolutional-Neural-Networks-for-Sentence-Classification
-Tensorflow implement of Convolutional Neural Networks for Sentence Classification(Kim, 2014)
+Tensorflow implement of <a href="https://arxiv.org/abs/1408.5882">Convolutional Neural Networks for Sentence Classification(Kim, 2014)</a>
 
 2014년 EMNLP에 소개된 김윤 박사님의 CNN 모델 전체 재구현 버전입니다.
 
